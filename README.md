@@ -1,8 +1,8 @@
 <h1 align="center"> 
-  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm [Your Name]  
+  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm [Pebin Joseph]  
 </h1>
 <h3 align="center">  
-  🚀 AI Enthusiast | 🤖 Deep Learning Engineer | 🎯 Open-Source Contributor   
+  🚀 AI Enthusiast | 🤖 Deep Learning Engineer | 🎯 Open-Source Contributor   |  Aspiring BlockChain 
 </h3>
 
 <p align="center">
@@ -52,12 +52,7 @@
 
 ---
 
-### 📊 **GitHub Stats & Streaks**  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
-</p>
+
 
 ---
 
@@ -68,7 +63,7 @@
 
 ---
 
-### 🚀 **Fun Motion Elements!**  
+### 🚀 **The Electricity of  Innovations!**  
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
 </p>  
@@ -80,13 +75,10 @@
 
 ### 🌍 **Let's Connect!**  
 <p align="center">
-  <a href="your-linkedin-url">
+  <a href="https://www.linkedin.com/in/pebin-joseph-640157349/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="your-twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="your-portfolio-url">
+  <a href="https://huggingface.co/PebinAPJ">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white">
   </a>
 </p>
